@@ -1,5 +1,5 @@
 # FOSSHACK
-Project for Foss Hack 2026
+Project for Foss Hack 2025
 FOSS HACK 2025
 
 
