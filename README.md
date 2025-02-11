@@ -19,4 +19,4 @@ Using HTML, CSS, Javascript for developing the skeleton  and frontend of the web
 
 Using Open source AI for creation of a chatbot for farmer assistance in surfing through the site.
 SITE STRUCTURE
-Site comprises of basic login portal for farmer and costumers along with a feedback portal. It also integrated with AI for usage convin
+Site comprises of basic login portal for farmer and costumers along with a feedback portal. It's also integrated with AI for usage convinience.
